@@ -1,5 +1,8 @@
 # Calculator App
 This is a simple calculator app built with Vanilla.js that allows you to perform basic arithmetic operations. The app is deployed to Netlify and can be accessed via this [link](https://jesscalculator.netlify.app/).
+```
+https://jesscalculator.netlify.app/
+```
 
 ## Features
 - Addition

@@ -19,11 +19,14 @@ This is a simple calculator app built with Vanilla.js that allows you to perform
 ## Installation
 To run this app locally, you can follow these steps:
 - Clone this repository
-- Open the project in your preferred text editor
-- Open the index.html file in your web browser
+- Open the project in VSCode
+- In the VSCode editor, click on the Go Live button in the bottom right corner of the window to start the development server
+- The app should now be running on a local server at http://127.0.0.1:5500/index.html
 
 ## Usage
-To perform a calculation, click on the buttons for the numbers and operations you want to use. The input field will display the numbers and operations you've selected. To clear the input field, click on the C button. To delete the last character, click on the < button. Keyboard support is also available, so you can use your keyboard to enter numbers and operations.
+- To perform a calculation, click on the buttons for the numbers and operations you want to use. 
+- The input field will display the numbers you've selected. 
+- To clear the input field, click on the AC button.
 
 ## Credits
 This app was built by Chuks-Aginam Adaobi.
